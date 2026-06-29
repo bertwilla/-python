@@ -13,7 +13,7 @@
 6.鼠标中键翻滚、nextpage翻页、拉动进度条调整阅读进度
 
 
-![workflow screenshot](https://i.imgur.com/UvLpXha.png)
+![workflow screenshot](https://i.imgur.com/VXcF4YE.gif)
 
 做出来之后发现效果不错，于是沿用其设计在这基础上做了一个打字游戏版本，点击右侧的红字按钮就可以进入打字模式了！
 
