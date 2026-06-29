@@ -13,6 +13,8 @@
 6.鼠标中键翻滚、nextpage翻页、拉动进度条调整阅读进度
 
 
+![workflow screenshot](https://i.imgur.com/UvLpXha.png)
+
 做出来之后发现效果不错，于是沿用其设计在这基础上做了一个打字游戏版本，点击右侧的红字按钮就可以进入打字模式了！
 
 由于市面上几乎不存在搜狗双拼输入法的双拼打字游戏，于是自己设计了一款。
@@ -22,5 +24,4 @@
 简单乱打模式：在打字模式下点击左下角的【简】进入简单模式，乱打就可以了，有时候你只是想找个打字的大致感觉实质上只是在看小说而已，这个模式就很好的做到了这点。
 
 一起来快乐打字一边享受看小说吧~~ 打累了就换成小说速读~~
-
-<img src="[https://i.imgur.com/A1h31UH.png](https://i.imgur.com/2DatnrE.gif)" width="400">
+![workflow screenshot](https://i.imgur.com/2DatnrE.gif)
